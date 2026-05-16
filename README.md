@@ -2,17 +2,23 @@
 
 > Gerçek zamanlı ürün ekleme, listeleme, güncelleme ve silme işlemleri yapabileceğiniz tam işlevsel bir React + Redux uygulaması.
 
----
+<div align="center">
 
 ![Demo](demovideo.gif)
+
+</div>
 
 ---
 
 ## 📸 Ekran Görüntüleri
 
+<div align="center">
+
 | Ana Sayfa | Modal |
-|-----------|-------|
-| ![screen1](screen1.png) | ![screen2](screen2.png) |
+|:---------:|:-----:|
+| <img src="screen1.png" width="400"/> | <img src="screen2.png" width="400"/> |
+
+</div>
 
 ---
 
@@ -31,37 +37,27 @@
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **React** — UI bileşenleri
-- **Redux Toolkit** — State yönetimi
-- **React Router DOM** — Sayfa yönlendirme
-- **Tailwind CSS** — Stil
-- **Vite** — Geliştirme ortamı
-- **React Icons** — İkon kütüphanesi
+| Teknoloji | Açıklama |
+|-----------|----------|
+| React | UI bileşenleri |
+| Redux Toolkit | State yönetimi |
+| React Router DOM | Sayfa yönlendirme |
+| Tailwind CSS | Stil |
+| Vite | Geliştirme ortamı |
+| React Icons | İkon kütüphanesi |
 
 ---
-PROJE YAPISI
-src/
-├── components/
-│   ├── button.jsx
-│   ├── header.jsx
-│   ├── input.jsx
-│   ├── modal.jsx
-│   └── productcard.jsx
-├── pages/
-│   ├── product.jsx
-│   └── test.jsx
-├── redux/
-│   ├── dataSlice.js
-│   ├── modalSlice.js
-│   └── store.js
-├── App.jsx
-└── main.jsx
+## 📬 İletişim
+
+- 📧 [numanbalik72@gmail.com](mailto:numanbalik72@gmail.com)
+- 💼 [linkedin.com/in/numan-balik-sverige](http://linkedin.com/in/numan-balik-sverige)
+- 🐙 [github.com/numanbalik-web](https://github.com/numanbalik-web)
+
+---
+
+## 🙏 Teşekkürler
+
+- [isveckrali](https://github.com/isveckrali)
+- [Udemig](https://github.com/Udemig)
 
 
-
-📬 İletişim
-    •    📧 Email: numanbalik72@gmail.com
-    •    💼 LinkedIn: linkedin.com/in/numan-balik-sverige
-    •    🐙 GitHub: github.com/numanbalik-web
-
-THANKS: https://github.com/isveckrali  https://github.com/Udemig
