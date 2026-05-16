@@ -16,7 +16,7 @@
 
 | Ana Sayfa | Modal |
 |:---------:|:-----:|
-| <img src="![screen1](screen/screen1.png) width="400"/> | <img src="![screen2](screen/screen2.png)" width="400"/> |
+|![screen1](screen/screen1.png) width="400"/> | ![screen2](screen/screen2.png) width="400"/> |
 
 </div>
 
