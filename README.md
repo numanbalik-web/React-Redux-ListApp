@@ -4,8 +4,8 @@
 
 <div align="center">
 
-![Demo](demovideo.gif)
 
+![Demo](screen/demovideo.gif)
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 | Ana Sayfa | Modal |
 |:---------:|:-----:|
-| <img src="screen1.png" width="400"/> | <img src="screen2.png" width="400"/> |
+| <img src="![screen1](screen/screen1.png) width="400"/> | <img src="![screen2](screen/screen2.png)" width="400"/> |
 
 </div>
 
